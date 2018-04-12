@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ex2</string>
+
+        <string-array name="Choose_Arr" >
+            <item>USD-VND</item>
+            <item>VND-USD</item>
+            <item>USD-EUR</item>
+        </string-array>
+
+</resources>
